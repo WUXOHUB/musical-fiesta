@@ -1,6 +1,6 @@
 -- =========================
 -- WHITELIST SYSTEM
--- =========================
+-- ========================
 local Players = game:GetService("Players")
 local player = Players.LocalPlayer
 
@@ -8,7 +8,8 @@ local player = Players.LocalPlayer
 local WHITELIST = {
     [312905316] = true, -- you
     [1904462199] = true,
-    [7790074927] = true, -- friend
+    [7790074927] = true,
+    [3143941478] = true,-- friend
     -- add more like this:
     -- [USERID] = true,
 }
