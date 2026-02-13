@@ -9,7 +9,12 @@ local WHITELIST = {
     [312905316] = true, -- you
     [1904462199] = true,
     [7790074927] = true,
-    [3143941478] = true,-- friend
+     [3143941478] = true,
+      [3266937741] = true,
+      [icrimax17346] = true,
+      [] = true,
+    
+    
     -- add more like this:
     -- [USERID] = true,
 }
