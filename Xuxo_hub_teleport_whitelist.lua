@@ -11,14 +11,9 @@ local WHITELIST = {
     [7790074927] = true,
      [3143941478] = true,
       [3266937741] = true,
-      [icrimax17346] = true,
       [] = true,
-    
-    
-    -- add more like this:
-    -- [USERID] = true,
-}
-
+      [] = true,
+   
 -- Check whitelist
 if not WHITELIST[player.UserId] then
     player:Kick("You are not whitelisted to use this script.")
